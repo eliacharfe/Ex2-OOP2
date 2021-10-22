@@ -1,0 +1,15 @@
+﻿target_sources (SFMLExamples PRIVATE "main.cpp"              
+                                      "Form.cpp"
+                                      "Field.cpp"
+                                      "RangeValidator.cpp"
+                                      "NoDigitValidator.cpp"
+                                      "IDValidator.cpp"
+                                      "NonNegativeValidator.cpp"
+                                      "NotGreaterThanValidator.cpp"
+                                      "SumValidator.cpp"
+                                      "RoomValidator.cpp"
+                                      "DateValidator.cpp"
+
+                                      "BaseValidator.cpp"
+                                      "BaseField.cpp"
+                                     )
