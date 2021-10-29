@@ -1,4 +1,4 @@
-# Ex2-OOP2
+## Ex2-OOP2
 2nd year 2nd semester
 
 תרגיל 2 - OOP2 ex2
